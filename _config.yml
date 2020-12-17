@@ -1,0 +1,37 @@
+title: Pofat 講 code
+author: Pofat
+description: > # this means to ignore newlines until "show_exerpts:"
+  Pofat 講 code ( Pofat kóng code）是一個純台語播出的節目（夾雜部分英語），專注在兩大方向：聊生活裡的科技原理與探討軟體工程裡的技術層面。
+show_excerpts: true # set to true to show excerpts on the homepage
+baseurl: 
+
+# Minima date format
+# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
+sass:
+  sass_dir: _sass
+
+permalink: /episodes/:title
+texture:
+  title: Pofat 講 code
+  tagline: Pofat 講 code ( Pofat kóng code）是一個純台語播出的節目（夾雜部分英語），專注在兩大方向：聊生活裡的科技原理與探討軟體工程裡的技術層面。
+  date_format: "%Y/%m/%d"
+  style: blue
+  showNav: true
+  showPicker: false
+
+  # generate social links in footer
+  social_links:
+    twitter: pofat_kongcode
+    rss: rss
+ 
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+#header_pages:
+# - about.md
+
+# Build settings
+# theme: texture
+
+plugins:
+  - jekyll-seo-tag
+#  - jekyll-feed
