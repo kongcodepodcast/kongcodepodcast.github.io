@@ -18,11 +18,15 @@ permalink: index.html
 
 ## 線上收聽
 
-可使用 <a href="https://open.spotify.com/show/3sLlQ699L5hMbkYJdkowjx">Spotify</a> 或 <a href="https://player.soundon.fm/p/832a4f37-a4c4-410f-883e-e73113ee0527">SoundOn</a> 網站。
+可使用 <a href="https://open.spotify.com/show/3sLlQ699L5hMbkYJdkowjx">Spotify</a>、<a href="https://podcast.kkbox.com/channel/LarV8K8O4jH_rwFbTk">KKBOX</a> 或 <a href="https://player.soundon.fm/p/832a4f37-a4c4-410f-883e-e73113ee0527">SoundOn</a> 網站。
 
 ## 訂閱方式
 
 **Pofat 講 code** 支援任何 podcast 播放軟體，只要訂閱我們的 [RSS](feed:https://api.soundon.fm/v2/podcasts/832a4f37-a4c4-410f-883e-e73113ee0527/feed.xml) 網址即可。
+
+<p>
+	<a href="https://pca.st/7oexx0fb"><img src="/pocket_casts.png" width="150" alt="Listen on Pocket Casts"></a> <a href="https://open.spotify.com/show/3sLlQ699L5hMbkYJdkowjx"><img src="/spotify.png" width="150" alt="Listen on Spotify"></a>
+</p>
 
 ## 節目列表
 
@@ -57,3 +61,7 @@ A: 請到我們的 [Twitter](https://twitter.com/pofat_kongcode) 回覆與 DM，
 
 ## 後台系統
 我們使用 [SoundOn](https://host.soundon.fm) 上架。
+
+## 特別感謝
+
+音訊工程師 - 緃谷盧蜜亞<img src="miya.jpg" width="30" alt="Miya"/>
