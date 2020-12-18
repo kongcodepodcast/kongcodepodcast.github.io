@@ -18,7 +18,7 @@ permalink: index.html
 
 ## 線上收聽
 
-可使用 <a href="https://open.spotify.com/show/3sLlQ699L5hMbkYJdkowjx">Spotify</a>、<a href="https://podcast.kkbox.com/channel/LarV8K8O4jH_rwFbTk">KKBOX</a> 或 <a href="https://player.soundon.fm/p/832a4f37-a4c4-410f-883e-e73113ee0527">SoundOn</a> 網站。
+可使用 <a href="https://www.listennotes.com/podcasts/pofat-講-code-pofat-A8cJHhVfxlg/">Listen Notes</a>、<a href="https://podcast.kkbox.com/channel/LarV8K8O4jH_rwFbTk">KKBOX</a> 或 <a href="https://player.soundon.fm/p/832a4f37-a4c4-410f-883e-e73113ee0527">SoundOn</a> 網站。
 
 ## 訂閱方式
 
