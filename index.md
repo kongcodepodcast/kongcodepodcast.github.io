@@ -18,15 +18,13 @@ permalink: index.html
 
 ## 線上收聽
 
-可使用 <a href="https://www.listennotes.com/podcasts/pofat-講-code-pofat-A8cJHhVfxlg/">Listen Notes</a>、<a href="https://podcast.kkbox.com/channel/LarV8K8O4jH_rwFbTk">KKBOX</a> 或 <a href="https://player.soundon.fm/p/832a4f37-a4c4-410f-883e-e73113ee0527">SoundOn</a> 網站。
+可使用 <a href="https://overcast.fm/itunes1545383775/pofat-code">Overcast</a>、<a href="https://www.listennotes.com/podcasts/pofat-講-code-pofat-A8cJHhVfxlg/">Listen Notes</a>、<a href="https://podcast.kkbox.com/channel/LarV8K8O4jH_rwFbTk">KKBOX</a>。
 
 ## 訂閱方式
 
 **Pofat 講 code** 支援任何 podcast 播放軟體，只要訂閱我們的 [RSS](feed:https://api.soundon.fm/v2/podcasts/832a4f37-a4c4-410f-883e-e73113ee0527/feed.xml) 網址即可。
 
-<p>
-	<a href="https://pca.st/7oexx0fb"><img src="/pocket_casts.png" width="150" alt="Listen on Pocket Casts"></a> <a href="https://open.spotify.com/show/3sLlQ699L5hMbkYJdkowjx"><img src="/spotify.png" width="150" alt="Listen on Spotify"></a>
-</p>
+<a href="https://podcasts.apple.com/tw/podcast/pofat-講-code/id1545383775"><img src="/apple_podcasts.png" width="150" alt="Listen on Apple Podcasts"></a> <a href="https://overcast.fm/itunes1545383775/pofat-code"><img src="/overcast.png" width="150" alt="Listen on Overcast"></a> <a href="https://pca.st/7oexx0fb"><img src="/pocket_casts.png" width="150" alt="Listen on Pocket Casts"></a> <a href="https://open.spotify.com/show/3sLlQ699L5hMbkYJdkowjx"><img src="/spotify.png" width="150" alt="Listen on Spotify"></a> <a href="https://castro.fm/itunes/1545383775"><img src="/castro.png" width="150" alt="Listen in Castro"></a>
 
 ## 節目列表
 
@@ -50,14 +48,20 @@ Q: 為什麼叫作 **Pofat 講 code**？
 A: 想用母語來聊天，就是台語。想聊我的專業和感興趣的事物，就是 code。
 
 Q: 什麼是收聽 **Pofat 講 code** 最棒的方式？
-A: 你可以使用任何 podcast app。最重要的是，**請 follow 我們的 [Twitter](https://twitter.com/pofat_kongcode)**，才不會錯過任何最新消息😘
+A: 你可以使用任何 podcast app，個人推薦 [Overcast](https://apps.apple.com/us/app/overcast/id888422857) 這個 iOS app，有體驗最好的筆記與章節功能。最重要的是，**請 follow 我們的 [Twitter](https://twitter.com/pofat_kongcode)**，才不會錯過任何最新消息😘
 
 Q: 我想要聽 OO 題目 / 我想要回饋或提供意見...  
 A: 基本上使用 Twitter 有三種方式，請到我們的 [Twitter](https://twitter.com/pofat_kongcode) 回覆與 DM、發起[挑戰賽](https://twitter.com/pofat_kongcode/status/1339604357763887104)，或在[提問箱](https://peing.net/zh-TW/pofat_kongcode)匿名發問；當然你也可以寫 [email](mailto:pofat.kongcode@gmail.com) 給我們。
 
 ## 筆記與章節功能
 
-**Pofat 講 code** 每一集都會包含節目內容的筆記與章節，方便你查看相關連結，以及跳轉到特定位置。
+**Pofat 講 code** 每一集都會包含節目內容的筆記與章節，方便你查看相關連結，以及跳轉到特定位置。下圖以 Overcast 為例：
+
+### 筆記（Show Note）
+<img src="show_note.jpg" width="414" alt="筆記功能 show note" style="border:0.5px #222 solid;">
+
+### 章節（Chapter Marker）
+<img src="chapter_marks.jpg" width="414" alt="章節功能 chapter mark" style="border:0.5px #222 solid;">
 
 ## 後台系統
 我們使用 [SoundOn](https://host.soundon.fm) 上架。
