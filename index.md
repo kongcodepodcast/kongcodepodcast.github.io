@@ -30,6 +30,8 @@ permalink: index.html
 
 ### 第一季
 
+[3: [生活中的 code] 一掃即應的 QR Code](/episodes/3)
+
 [2: [軟體工程變啥魍] 柏拉圖式的程式思維](/episodes/2)
 
 [1: [生活中的 code] 讓現實更多可能的 AR](/episodes/1)
