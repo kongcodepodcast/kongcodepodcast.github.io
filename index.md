@@ -30,6 +30,8 @@ permalink: index.html
 
 ### 第一季
 
+[4: [軟體工程變啥魍] 新的一年一起學台語](/episodes/4)
+
 [3: [生活中的 code] 一掃即應的 QR Code](/episodes/3)
 
 [2: [軟體工程變啥魍] 柏拉圖式的程式思維](/episodes/2)
